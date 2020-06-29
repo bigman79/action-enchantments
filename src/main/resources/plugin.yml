@@ -1,4 +1,4 @@
-name: Action Enchantments
+name: ActionEnchantments
 version: ${project.version}
 main: dev.aquild.actionenchantments.ActionEnchantments
 api-version: 1.13
